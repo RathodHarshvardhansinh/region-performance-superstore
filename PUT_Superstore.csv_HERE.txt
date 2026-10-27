@@ -1,0 +1,2 @@
+Download "Sample - Superstore" from Kaggle (search: Superstore dataset),
+rename it Superstore.csv and upload it into this data/ folder.
