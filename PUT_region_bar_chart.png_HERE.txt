@@ -1,1 +1,0 @@
-Take a screenshot of your bar chart (Excel or Power BI), name it region_bar_chart.png and upload it here.
