@@ -28,7 +28,6 @@ Practice grouping and comparison by finding which regions perform best and worst
 | Deliverable | File |
 |---|---|
 | Region summary | `region_summary.xlsx` |
-| Bar chart | `screenshots/region_bar_chart.png` |
 | Power BI report | `region_performance.pbix` |
 
 ## Region Summary
@@ -64,8 +63,6 @@ region-performance-superstore/
 |   `-- Superstore.csv
 |-- region_summary.xlsx
 |-- region_performance.pbix
-`-- screenshots/
-    `-- region_bar_chart.png
 ```
 
 ## Author
